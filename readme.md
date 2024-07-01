@@ -10,8 +10,10 @@
 .\gradlew.bat clean build 
 java -jar .\build\libs\coffee-machine-kotlin-0.0.1-SNAPSHOT-all.jar
 # - or - 
-#  java -cp  .\build\libs\coffee-machine-kotlin-0.0.1-SNAPSHOT-all.jar  com.javapda.CoffeeMachineKt
+#  java -cp  .\build\libs\coffee-machine-kotlin-0.0.1-SNAPSHOT-all.jar  com.javapda.coffeemachine.CoffeeMachineKt
 ```
+
+
 
 ## Stage 6 : Brush up your code
 ### Description

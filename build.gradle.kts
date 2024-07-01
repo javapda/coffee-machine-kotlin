@@ -1,6 +1,6 @@
 import java.util.*
 
-val mainKotlinClass = "com.javapda.CoffeeMachineKt"
+val mainKotlinClass = "com.javapda.coffeemachine.CoffeeMachineKt"
 val theJdkVersion = 17
 
 plugins {
